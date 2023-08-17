@@ -1,1 +1,1 @@
-# redes_neuronales
+# Redes Neuronales Convolucionales
